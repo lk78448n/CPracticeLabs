@@ -14,4 +14,5 @@ int main()
   b = PI * 2 * r;
 
   printf("Circle's area is %3.2f (sq in).\n", a);
+  printf("Circle's perimeter is %3.2f (sq in).\n", b);
 }
